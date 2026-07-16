@@ -8,6 +8,7 @@
         "build.zig",
         "build.zig.zon",
         "minhook.zig",
-        "libs",
+        "libs/libMinHook.x64.lib",
+        "libs/libMinHook.x86.lib",
     },
 }
