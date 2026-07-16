@@ -91,8 +91,9 @@ pub fn main() !void {
 
 ## Credits
 
-The MinHook library is © Tsuda Kageyu and is distributed under the BSD 2-Clause License. See [MinHook's LICENSE.txt](https://github.com/TsudaKageyu/minhook/blob/master/LICENSE.txt) for the full text. This repository bundles prebuilt MinHook binaries for convenience and does not modify the upstream source.
+The MinHook library is © Tsuda Kageyu and is distributed under the BSD 2-Clause License. This repository bundles prebuilt MinHook binaries for convenience. The full MinHook license text can be found in [`MINHOOK_LICENCE.txt`](./MINHOOK_LICENCE.txt).
 
 ## License
 
-See the `LICENSE` file in this repository for the license covering the zighook wrapper code. MinHook retains its own BSD-2-Clause license as linked above.
+The zighook wrapper code is released into the public domain using **The Unlicense**. See the [`LICENCE.txt`](./LICENCE.txt) file for full details. 
+MinHook retains its own BSD-2-Clause license as linked above.
