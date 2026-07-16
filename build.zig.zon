@@ -1,5 +1,5 @@
 .{
-    .name = .minhook,
+    .name = .zighook,
     .version = "1.3.4",
     .fingerprint = 0xfbe8f9acd97800a6,
     .minimum_zig_version = "0.16.0",
@@ -7,7 +7,7 @@
     .paths = .{
         "build.zig",
         "build.zig.zon",
-        "minhook.zig",
+        "zighook.zig",
         "libs/libMinHook.x64.lib",
         "libs/libMinHook.x86.lib",
     },
